@@ -2,6 +2,7 @@
   {
     "title": "Developer's Notebook",
     "website": "https://www.developers-notebook.com",
-    "feedUrl": "https://www.developers-notebook.com/feed"
+    "feedUrl": "https://www.developers-notebook.com/feed",
+    "tags": ["development", "blog"]
   }
 ]
