@@ -3,6 +3,12 @@
     "title": "Developer's Notebook",
     "website": "https://www.developers-notebook.com",
     "feedUrl": "https://www.developers-notebook.com/feed",
-    "tags": ["development", "blog"]
+    "tags": ["Development", "Blog"]
+  },
+  {
+    "title": "InfoWorld",
+    "website": "https://www.infoworld.com",
+    "feedUrl": "https://www.infoworld.com/index.rss",
+    "tags": ["Development", "News", "Databases", "Cloud Computing", "Open Source", "AI", "Machine Learning", "Agile", "Java", "CI/CD", "DevOps", "JavaScript", ".NET"]
   }
 ]
