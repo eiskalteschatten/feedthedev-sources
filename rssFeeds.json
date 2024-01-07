@@ -3,12 +3,30 @@
     "title": "Developer's Notebook",
     "website": "https://www.developers-notebook.com",
     "feedUrl": "https://www.developers-notebook.com/feed",
-    "tags": ["Development", "Blog"]
+    "tags": ["Blog"]
   },
   {
     "title": "InfoWorld",
     "website": "https://www.infoworld.com",
     "feedUrl": "https://www.infoworld.com/index.rss",
-    "tags": ["Development", "News", "Databases", "Cloud Computing", "Open Source", "AI", "Machine Learning", "Agile", "Java", "CI/CD", "DevOps", "JavaScript", ".NET"]
+    "tags": ["News", "Databases", "Cloud Computing", "Open Source", "AI", "Machine Learning", "Agile", "Java", "CI/CD", "DevOps", "JavaScript", ".NET"]
+  },
+  {
+    "title": "TypeScript Blog",
+    "website": "https://devblogs.microsoft.com/typescript/",
+    "feedUrl": "https://devblogs.microsoft.com/typescript/feed/",
+    "tags": ["News", "Blog", "TypeScript", "JavaScript", "Languages", "Microsoft"]
+  },
+  {
+    "title": "Google for Developers",
+    "website": "https://developers.googleblog.com/",
+    "feedUrl": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
+    "tags": ["News", "Blog", "AI", "Cloud Computing", "Google", "Android", "Java", "Kotlin"]
+  },
+  {
+    "title": "Apple Developer News and Updates",
+    "website": "https://developer.apple.com/news/",
+    "feedUrl": "https://developer.apple.com/news/rss/news.rss",
+    "tags": ["News", "Apple", "iOS", "iPadOS", "macOS", "Swift", "Objective-C"]
   }
 ]
